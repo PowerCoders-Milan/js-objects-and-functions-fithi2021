@@ -9,4 +9,4 @@ It should default to returning English. (defaul means that if no value is given 
 
 Prompt the user to give you a language and call the function passing that language as an argument.
 
-Remember to print to the browser to cee if it works
+Remember to print to the browser to see if it works
