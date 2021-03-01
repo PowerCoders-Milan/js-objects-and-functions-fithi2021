@@ -7,7 +7,7 @@ function calculate_age(dob) {
   
     return Math.abs(age_dt.getUTCFullYear() - 1970);
  
-}
+}     
 
 
 
